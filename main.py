@@ -1,3 +1,4 @@
+import tellurium as te
 def main():
     print("Hello from dialysis-pump!")
 
